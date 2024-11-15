@@ -1,0 +1,55 @@
+body{
+    background-color: #0A6091;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#tartalom{
+    width: 800px;
+    background-color: white;
+    margin: 0 auto;
+    border: 5px solid #7BC0E8;
+}
+
+#fejlec{
+    padding: 1px;
+    height: 180px;
+    color: white;
+    line-height: 122px;
+    background-image: url(forrasok/dunakanyar.jpg); 
+    background-size: cover;
+    background-position: center;
+}
+
+#menusor{
+    color:black;
+    text-align: center;
+}
+
+#cim{
+    color:#0A6091;
+    text-align: center;
+}
+
+#szoveg{
+    display:inline-block;
+    vertical-align: top;
+    text-align: justify;
+    width: 540px;
+    margin: 16px;
+}
+
+#duna{
+    display:inline-block;
+    vertical-align: top;
+    width: 200px;
+    border: 1px solid #7BC0E8;
+}
+
+#lablec{
+    text-align: center;
+}
+.kep{
+    width: 200px;
+    height: 500px;
+}
+
